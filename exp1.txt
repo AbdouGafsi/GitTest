@@ -1,3 +1,3 @@
-Bonjour les amis
+Bonjour
 La deuxième ligne
-La troisième ligne, une ligne en paix
+La troisième ligne, une ligne 
